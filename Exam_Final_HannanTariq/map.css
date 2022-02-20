@@ -1,0 +1,25 @@
+
+body{
+    background-color: #fa4454;
+}
+
+h1{
+    color: white;
+    font-family: 'VALORANT', sans-serif;   
+    font-size: 10vw;   
+    text-align: center;          
+}
+
+#footer{
+    color: white;
+    font-family: 'VALORANT', sans-serif;   
+    font-size: 15px;  
+    text-align: center;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    border: solid white 1px;
+}
+
+p{
+    color: white;
+}

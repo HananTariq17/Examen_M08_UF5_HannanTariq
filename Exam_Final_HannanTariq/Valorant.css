@@ -1,0 +1,85 @@
+body{
+    background-color: #fa4454;
+}
+
+h1{
+    color: white;
+    font-family: 'VALORANT', sans-serif;   
+    font-size: 10vw;   
+    text-align: center;        
+}
+
+p{
+    color: black;
+}
+
+#page1{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:45%;
+    position:relative;
+    height:0;
+    margin-bottom: 2cm;
+}
+
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.agents{
+    height: 400px;
+    width: 250px;
+}
+
+
+
+h6{
+    color: black;
+    font-family: 'VALORANT', sans-serif;  
+    text-align: center;
+}
+
+ .card  {
+    height: 550px;
+    width: 300px;
+    margin-top: 40px;
+    background-color: gainsboro;
+    border: solid #fa4454 3px;
+ }
+
+
+#footer{
+    color: white;
+    font-family: 'VALORANT', sans-serif;   
+    font-size: 15px;  
+    text-align: center;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    border: solid white 1px;
+}
+
+.hover:hover{
+    background-color: #fa4454;
+}
+
+.hover:hover h6{
+    color: white;
+}
+
+.hover:hover p{
+    color: white;
+}
+
+.image{
+    width: 150px;
+    margin-bottom: 1cm;
+}
